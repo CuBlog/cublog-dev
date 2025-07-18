@@ -38,6 +38,9 @@ username:
   linkedin: yourusername
   reddit: yourusername
 
+#Disqus Comment [Beta]
+disqus: cublog-dev
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
