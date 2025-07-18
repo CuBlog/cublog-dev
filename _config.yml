@@ -1,6 +1,6 @@
 title: CuBlog
 description: A tidy Jekyll Blog
-baseurl: "dev"
+baseurl: "cublog-dev"
 url: "https://cublog.ryanincn11.me"
 permalink: pretty
 
