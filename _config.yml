@@ -27,15 +27,16 @@ plugins:
   - jekyll-feed
 
 # Social Accounts
-github_username: yourusername
-facebook_username: yourusername
-x_username: yourusername
-instagram_username: yourusername
-tiktok_username: yourusername
-pinterest_username: yourusername
-snapchat_username: yourusername
-linkedin_username: yourusername
-reddit_username: yourusername
+username:
+  github: yourusername
+  facebook: yourusername
+  x: yourusername
+  instagram: yourusername
+  tiktok: yourusername
+  pinterest: yourusername
+  snapchat: yourusername
+  linkedin: yourusername
+  reddit: yourusername
 
 # Build settings
 markdown: kramdown
