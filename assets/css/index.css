@@ -349,3 +349,11 @@ footer .social-links a:hover {
         font-size: 1rem;
     }
 }
+
+div.disqus-area {
+    padding: 0;
+    padding-top: 3.75rem;
+    padding-bottom: 5.625rem;
+    padding-left: 1.875rem;
+    padding-right: 1.875rem;
+}

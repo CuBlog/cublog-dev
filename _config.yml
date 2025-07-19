@@ -1,7 +1,7 @@
 title: CuBlog
 description: A tidy Jekyll Blog
-baseurl: "dev"
-url: "https://cublog.ryanincn11.me"
+baseurl: "cublog-dev"
+url: "https://cublog.ryanincn11.me/"
 permalink: pretty
 
 # Style Settings
@@ -37,6 +37,9 @@ username:
   snapchat: yourusername
   linkedin: yourusername
   reddit: yourusername
+
+#Disqus Comment [Beta]
+disqus: cublog-dev
 
 # Build settings
 markdown: kramdown
