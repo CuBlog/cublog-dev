@@ -18,7 +18,7 @@ To get started contributing with CuBlog/cublog-dev:
 
 1. **Fork the repository**
 2. **Enable Jekyll**  
-   - Enable the GitHub Pages
+   - Enable the GitHub Pages ans GitHub Actions for build
    - Run the "Deploy CuBlog to GitHub Pages" workflow
 
 3. **Preview on the GitHub Pages**  
