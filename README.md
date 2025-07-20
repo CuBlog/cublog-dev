@@ -10,7 +10,7 @@
 - Actively updated development environment.
 - Open for contributions from the community.
 - Source code licensed under the Apache License 2.0.
-- Preview website: [cublog.ryanincn11.me/cublog-dev/](http://cublog.github.io/cublog-dev/)
+- Preview website: [cublog.github.io/cublog-dev/](http://cublog.github.io/cublog-dev/)
 
 ## Contributing
 
